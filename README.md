@@ -1,10 +1,26 @@
 <div align="center">
-
-<p align="center"> <img src="https://icon.icepanel.io/Technology/svg/FastAPI.svg" alt="FastAPI" width="40" height="40"/> <img src="https://www.svgrepo.com/show/349341/djangoproject.svg" alt="django"   width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/><img       src="https://www.svgrepo.com/show/353985/laravel.svg" alt="laravel" width="40" height="40"/><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </p>
   
+<!-- LINGUAGENS -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="45" height="45"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="45" height="45"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/2/22/Assembly_language_logo.svg" alt="Assembly" width="45" height="45"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/5/5d/Intel_logo_(2020%2C_dark_blue).svg" alt="ASM" width="45" height="45"/>
+</p>
+
+<!-- FERRAMENTAS -->
+<p align="center">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/7/7d/Cheat_Engine_logo.png" alt="Cheat Engine" width="45" height="45"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/1/1b/IDA_Pro_logo.png" alt="IDA Pro" width="45" height="45"/>
+  <img src="https://raw.githubusercontent.com/wiki/x64dbg/x64dbg/images/x64dbg_icon.png" alt="x64dbg" width="45" height="45"/>
+</p>
+
+<!-- GITHUB STATS -->
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=NerostavKuznetsov&cache_seconds=0&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NerostavKuznetsov&cache_seconds=0&layout=compact&show_icons=true&theme=merko"/>
+
 </div>
+
 
 
 
