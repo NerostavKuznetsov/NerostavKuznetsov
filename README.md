@@ -12,7 +12,7 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tex/tex-original.svg" width="50" height="50"/>      
 </p>
 <!-- GITHUB STATUS -->
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=NerostavKuznetsov&cache_seconds=0&show_icons=true&theme=merko&count_private=true&include_all_commits=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=NerostavKuznetsov&include_all_commits=true&cache_seconds=0&show_icons=true&theme=merko&count_private=true"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NerostavKuznetsov&cache_seconds=0&layout=compact&show_icons=true&theme=dark"/>
 </div>
 
