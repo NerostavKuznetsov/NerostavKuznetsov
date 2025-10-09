@@ -10,7 +10,9 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/debian/debian-original.svg"                    width="50" height="50"/>      
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kalilinux/kalilinux-original-wordmark.svg"     width="50" height="50"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg"                      width="50" height="50"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tex/tex-original.svg"                          width="50" height="50"/>      
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tex/tex-original.svg"                          width="50" height="50"/>  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tex/tex-original.svg" width="50" height="50" style="filter: invert(1);"/>
+
 </p>
   
 <!-- GITHUB STATUS -->
