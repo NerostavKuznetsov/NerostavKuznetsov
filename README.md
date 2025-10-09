@@ -4,6 +4,7 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="45" height="45"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="45" height="45"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="JS" width="45" height="45"/>
   <!-- <img src="https://upload.wikimedia.org/wikipedia/commons/2/22/Assembly_language_logo.svg" alt="Assembly" width="45" height="45"/> -->
   <!-- <img src="https://upload.wikimedia.org/wikipedia/commons/5/5d/Intel_logo_(2020%2C_dark_blue).svg" alt="ASM" width="45" height="45"/> -->
 </p>
