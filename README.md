@@ -8,13 +8,6 @@
   <!-- <img src="https://upload.wikimedia.org/wikipedia/commons/5/5d/Intel_logo_(2020%2C_dark_blue).svg" alt="ASM" width="45" height="45"/> -->
 </p>
 
-<!-- FERRAMENTAS -->
-<p align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/7/7d/Cheat_Engine_logo.png" alt="Cheat Engine" width="45" height="45"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/1/1b/IDA_Pro_logo.png" alt="IDA Pro" width="45" height="45"/>
-  <img src="https://raw.githubusercontent.com/wiki/x64dbg/x64dbg/images/x64dbg_icon.png" alt="x64dbg" width="45" height="45"/>
-</p>
-
 <!-- GITHUB STATS -->
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=NerostavKuznetsov&cache_seconds=0&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NerostavKuznetsov&cache_seconds=0&layout=compact&show_icons=true&theme=merko"/>
